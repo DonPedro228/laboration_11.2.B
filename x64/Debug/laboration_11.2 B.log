@@ -1,0 +1,6 @@
+﻿  laboration_11.2.B.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.2 B\laboration_11.2.B.cpp(36,9): warning C4101: 'N': unreferenced local variable
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.2 B\laboration_11.2.B.cpp(203,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.2 B\laboration_11.2.B.cpp(220,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.2 B\laboration_11.2.B.cpp(237,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  laboration_11.2 B.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.2 B\x64\Debug\laboration_11.2 B.exe
